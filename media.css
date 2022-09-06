@@ -1,0 +1,15 @@
+@media (max-width:1028px) {
+    h2 {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: gold;
+        text-align: center;
+    }
+    p {
+        color: peru;
+        text-align: center;
+    }
+    .dry-run {
+        width: 40%;
+        transform: rotate(20%);
+    }
+}
